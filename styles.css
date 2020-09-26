@@ -1,14 +1,20 @@
 /* HTML Elements */
 body {
   text-align: center;
-  background-color: #011F3F;
+  background-color: #393b44;
 }
 /* ID Elements */
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
+  font-size: 2rem;
   margin:  5%;
-  color: #FEF2BF;
+  color: #EAF6F6;
+}
+.title-name {
+  font-family: 'Press Start 2P', cursive;
+  font-size: 4rem;
+  margin: 5%;
+  color: #EAF6F6;
 }
 /* Class elements */
 .container {
@@ -28,6 +34,7 @@ body {
   font-family: 'Press Start 2P', cursive;
   font-size: 1rem;
   margin-bottom: 5%;
+  color: #EAF6F6;
 }
 .game-over {
   background-color: red;
